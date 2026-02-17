@@ -24,12 +24,12 @@ quiz-app/
 * ├── style.css         → UI styling
 * ├── script.js         → Quiz logic
 * └── screenshots/
- *     └── quiz1.png
- *     └── quiz2.png
- *     └── quiz3.png
+      └── quiz1.png
+      └── quiz2.png
+      └── quiz3.png
 
 ## 📸 Screenshots
-``
+```
 ![Quiz App Screenshot](screenshots/quiz1.png)
 ![Quiz App Screenshot](screenshots/quiz2.png)
 ![Quiz App Screenshot](screenshots/quiz3.png)
@@ -38,7 +38,7 @@ quiz-app/
 ## ▶️ How to Run the Project
 1️⃣ Clone the repository
 
-```bash
+```
 git clone https://github.com/takundagorogodo/quiz-app.git
 ```
 
