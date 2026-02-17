@@ -29,11 +29,9 @@ quiz-app/
       └── quiz3.png
 
 ## 📸 Screenshots
-```
 ![Quiz App Screenshot](screenshots/quiz1.png)
 ![Quiz App Screenshot](screenshots/quiz2.png)
 ![Quiz App Screenshot](screenshots/quiz3.png)
-```
 
 ## ▶️ How to Run the Project
 1️⃣ Clone the repository
